@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="business_application.BL.Admin">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Members>
+      <Method Name="Admin" Hidden="true" />
+      <Property Name="Name" Hidden="true" />
+      <Property Name="Password" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAEAAACAAAAAgAAAAA=</HashCode>
+      <FileName>BL\Admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="business_application.BL.Alumni">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <Members>
+      <Method Name="Alumni" Hidden="true" />
+      <Property Name="Name" Hidden="true" />
+      <Property Name="Session" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAEAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\Alumni.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="business_application.BL.Candidate">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <Members>
+      <Method Name="Candidate" Hidden="true" />
+      <Property Name="Password" Hidden="true" />
+    </Members>
+    <InheritanceLine Type="business_application.BL.Muser" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.5" Y="2.062" />
+        <Point X="8.5" Y="2.062" />
+        <Point X="8.5" Y="1.733" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAgAAAAA=</HashCode>
+      <FileName>BL\Candidate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="business_application.BL.Head">
+    <Position X="5.75" Y="0.5" Width="1.75" />
+    <Members>
+      <Property Name="Designation" Hidden="true" />
+      <Method Name="Head" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\Head.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="business_application.BL.Muser">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <Members>
+      <Property Name="Aggrigate" Hidden="true" />
+      <Property Name="Category" Hidden="true" />
+      <Property Name="Dept" Hidden="true" />
+      <Property Name="Designation" Hidden="true" />
+      <Property Name="Fname" Hidden="true" />
+      <Method Name="Muser" Hidden="true" />
+      <Property Name="Name" Hidden="true" />
+      <Property Name="Password" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AEAQAAAAAAAAAAAAAAAAAAQAAAAECgACAAgAAABIGAA=</HashCode>
+      <FileName>BL\Muser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="business_application.DL.Admin_DL">
+    <Position X="0.5" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAQgAAAAAAAAAEAI=</HashCode>
+      <FileName>DL\Admin_DL.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="login" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="business_application.DL.Alumni_DL">
+    <Position X="2.5" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAgAAAI=</HashCode>
+      <FileName>DL\Alumni_DL.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="alumni" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="business_application.DL.Candidate_DL">
+    <Position X="0.5" Y="5.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAgAAAAAAAAgAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>DL\Candidate_DL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="business_application.DL.Head_DL">
+    <Position X="3.75" Y="5.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAEAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>DL\Head_DL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="business_application.DL.Muser_DL">
+    <Position X="4.75" Y="3" Width="2.75" />
+    <AssociationLine Name="users" Type="business_application.BL.Muser" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="6.781" Y="3" />
+        <Point X="6.781" Y="2.625" />
+        <Point X="5.062" Y="2.625" />
+        <Point X="5.062" Y="2.373" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAABAAAAAAAAgAQAAAAAAQAAAAIAAAAhAAQA=</HashCode>
+      <FileName>DL\Muser_DL.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="users" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="business_application.About_society" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAACASAEABAACATAAAACAAAAIAAAQCAAQABAABI=</HashCode>
+      <FileName>About_society.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="business_application.Add_new_headship" Collapsed="true">
+    <Position X="2.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ADAAgAgAgCCIgJGAggDAgAACAAoACAABACIAQABAAAA=</HashCode>
+      <FileName>Add_new_headship.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="business_application.Alumni_of_society" Collapsed="true">
+    <Position X="4" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ADQAAAACACAEABAAGATAAAACAAAAIAAAQCAAAABAABI=</HashCode>
+      <FileName>Alumni_of_society.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="business_application.Approve_candidate" Collapsed="true">
+    <Position X="7.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASAAgAgAACCIABEAEgDAAAICAAIAAAAQACAAQJBAAAA=</HashCode>
+      <FileName>Approve_candidate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="business_application.Candidate_main_menu" Collapsed="true">
+    <Position X="5.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACASAEABAAGASQgACCAAACIAAAQCAAAABAABI=</HashCode>
+      <FileName>Candidate_main_menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="business_application.Change_head" Collapsed="true">
+    <Position X="5.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAgAgAgCCIgJOAAgHAgAACIAoACAAQACIAwABACAA=</HashCode>
+      <FileName>Change_head.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="business_application.Change_password" Collapsed="true">
+    <Position X="5.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAgCEAAAAAAAHQAACCAAqAAAAAACQACQBACAA=</HashCode>
+      <FileName>Change_password.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="business_application.Change_username" Collapsed="true">
+    <Position X="7.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACBAAAAAgCAAAICAAAHQgACCAAqAAAAAACQAAABACAA=</HashCode>
+      <FileName>Change_username.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="business_application.Head_main_menu" Collapsed="true">
+    <Position X="7.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAgBiAECCIABEIAgCoBCACAAIACEEQAAIAQIBAAAQ=</HashCode>
+      <FileName>Head_main_menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="business_application.Join_society" Collapsed="true">
+    <Position X="7.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACBEAAACoSIAgBIAGQTQgAACAAiAJACEQCAAAABAABI=</HashCode>
+      <FileName>Join_society.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="business_application.Leave_society" Collapsed="true">
+    <Position X="2.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAEAAACgSJEgBIAGATQAAACAQgAIAAAQCAAAABAAAI=</HashCode>
+      <FileName>Leave_society.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="business_application.List_of_heads" Collapsed="true">
+    <Position X="4" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAgAAgAACCKABEAQgDAAAACAAIACAAQACIAQABAAAA=</HashCode>
+      <FileName>List_of_heads.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="business_application.Remove_member" Collapsed="true">
+    <Position X="2.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACACgAgAACAIABEAAgDAAAACAAIACAAQACIAYABAAAQ=</HashCode>
+      <FileName>Remove_member.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="business_application.Setting" Collapsed="true">
+    <Position X="0.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAACAAAAAAAACQAACCAACAAAAAACAAAQBAAAA=</HashCode>
+      <FileName>Setting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="business_application.Signin" Collapsed="true">
+    <Position X="0.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAEAQgAACAAAAAAAADAAAACAAMAAAgAACAAAAAAAAA=</HashCode>
+      <FileName>Signin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="business_application.Society_profile" Collapsed="true">
+    <Position X="7.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAABACASAEAFAAGADAAAACAAAAIAAAQCAAAABAABI=</HashCode>
+      <FileName>Society_profile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="business_application.Sorted_candidate" Collapsed="true">
+    <Position X="4" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAgAgAACCIABEACgDAAAACAAIAGAAQACAAQABAAQA=</HashCode>
+      <FileName>Sorted_candidate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,53 @@
+E:\UET\Semester 2\project\business_application\business_application\obj\Debug\business_application.csproj.AssemblyReference.cache
+E:\UET\Semester 2\project\business_application\business_application\obj\Debug\business_application.Alumni_of_society.resources
+E:\UET\Semester 2\project\business_application\business_application\obj\Debug\business_application.Candidate_main_menu.resources
+E:\UET\Semester 2\project\business_application\business_application\obj\Debug\business_application.Head_main_menu.resources
+E:\UET\Semester 2\project\business_application\business_application\obj\Debug\business_application.Join_society.resources
+E:\UET\Semester 2\project\business_application\business_application\obj\Debug\business_application.Leave_society.resources
+E:\UET\Semester 2\project\business_application\business_application\obj\Debug\business_application.Signin.resources
+E:\UET\Semester 2\project\business_application\business_application\obj\Debug\business_application.Properties.Resources.resources
+E:\UET\Semester 2\project\business_application\business_application\obj\Debug\business_application.Society_profile.resources
+E:\UET\Semester 2\project\business_application\business_application\obj\Debug\business_application.csproj.GenerateResource.cache
+E:\UET\Semester 2\project\business_application\business_application\obj\Debug\business_application.csproj.CoreCompileInputs.cache
+E:\UET\Semester 2\project\business_application\business_application\bin\Debug\business_application.exe.config
+E:\UET\Semester 2\project\business_application\business_application\bin\Debug\business_application.exe
+E:\UET\Semester 2\project\business_application\business_application\bin\Debug\business_application.pdb
+E:\UET\Semester 2\project\business_application\business_application\obj\Debug\business_application.exe
+E:\UET\Semester 2\project\business_application\business_application\obj\Debug\business_application.pdb
+E:\UET\Semester 2\project\business_application\business_application\obj\Debug\business_application.About_society.resources
+E:\UET\Semester 2\project\business_application\business_application\obj\Debug\business_application.User_menu.resources
+E:\UET\Semester 2\project\business_application\business_application\obj\Debug\business_application.Approve_candidate.resources
+E:\UET\Semester 2\project\business_application\business_application\obj\Debug\business_application.Change_head.resources
+E:\UET\Semester 2\project\business_application\business_application\obj\Debug\business_application.List_of_heads.resources
+E:\UET\Semester 2\project\business_application\business_application\obj\Debug\business_application.Remove_member.resources
+E:\UET\Semester 2\project\business_application\business_application\obj\Debug\business_application.Sorted_candidate.resources
+E:\UET\Semester 2\project\business_application\business_application\obj\Debug\business_application.Add_new_headship.resources
+E:\UET\Semester 2\project\business_application\business_application\obj\Debug\business_application.Change_password.resources
+E:\UET\Semester 2\project\business_application\business_application\obj\Debug\business_application.Change_username.resources
+E:\UET\Semester 2\project\business_application\business_application\obj\Debug\business_application.Setting.resources
+E:\UET\Semester 2\project\new project file\business_application\business_application\bin\Debug\business_application.exe.config
+E:\UET\Semester 2\project\new project file\business_application\business_application\bin\Debug\business_application.exe
+E:\UET\Semester 2\project\new project file\business_application\business_application\bin\Debug\business_application.pdb
+E:\UET\Semester 2\project\new project file\business_application\business_application\obj\Debug\business_application.csproj.AssemblyReference.cache
+E:\UET\Semester 2\project\new project file\business_application\business_application\obj\Debug\business_application.About_society.resources
+E:\UET\Semester 2\project\new project file\business_application\business_application\obj\Debug\business_application.Alumni_of_society.resources
+E:\UET\Semester 2\project\new project file\business_application\business_application\obj\Debug\business_application.Approve_candidate.resources
+E:\UET\Semester 2\project\new project file\business_application\business_application\obj\Debug\business_application.Candidate_main_menu.resources
+E:\UET\Semester 2\project\new project file\business_application\business_application\obj\Debug\business_application.Change_head.resources
+E:\UET\Semester 2\project\new project file\business_application\business_application\obj\Debug\business_application.Change_password.resources
+E:\UET\Semester 2\project\new project file\business_application\business_application\obj\Debug\business_application.Head_main_menu.resources
+E:\UET\Semester 2\project\new project file\business_application\business_application\obj\Debug\business_application.Join_society.resources
+E:\UET\Semester 2\project\new project file\business_application\business_application\obj\Debug\business_application.Leave_society.resources
+E:\UET\Semester 2\project\new project file\business_application\business_application\obj\Debug\business_application.List_of_heads.resources
+E:\UET\Semester 2\project\new project file\business_application\business_application\obj\Debug\business_application.Add_new_headship.resources
+E:\UET\Semester 2\project\new project file\business_application\business_application\obj\Debug\business_application.Remove_member.resources
+E:\UET\Semester 2\project\new project file\business_application\business_application\obj\Debug\business_application.Change_username.resources
+E:\UET\Semester 2\project\new project file\business_application\business_application\obj\Debug\business_application.Setting.resources
+E:\UET\Semester 2\project\new project file\business_application\business_application\obj\Debug\business_application.Signin.resources
+E:\UET\Semester 2\project\new project file\business_application\business_application\obj\Debug\business_application.Properties.Resources.resources
+E:\UET\Semester 2\project\new project file\business_application\business_application\obj\Debug\business_application.Society_profile.resources
+E:\UET\Semester 2\project\new project file\business_application\business_application\obj\Debug\business_application.Sorted_candidate.resources
+E:\UET\Semester 2\project\new project file\business_application\business_application\obj\Debug\business_application.csproj.GenerateResource.cache
+E:\UET\Semester 2\project\new project file\business_application\business_application\obj\Debug\business_application.csproj.CoreCompileInputs.cache
+E:\UET\Semester 2\project\new project file\business_application\business_application\obj\Debug\business_application.exe
+E:\UET\Semester 2\project\new project file\business_application\business_application\obj\Debug\business_application.pdb

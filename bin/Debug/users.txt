@@ -1,0 +1,12 @@
+head,MUAWWAZ NAEEM,ZAHID NAEEM,CS,79.79,President
+head,Hajra,Hamza,SE,58.96,Head of SE department
+head,Aman,Owais,ME,78.45,Head of ME department
+head,Fatima,Zahid,EE,80.56,Head of EE department
+head,Osama,Ali,CRP,50.89,Head of CRP department
+head,Sachal Qamar, Qamar Khan,CE,50.46,Head of CE department
+candidate,Usama Iqbal,ZAHID,EE,79.89,asdf
+candidate,Ali Zaidi,Imran Khan,CS,81.12,123789
+member,ARQAM,ZAHID,ME,100
+member,Usman Khan,Shoukat,CE,80.59
+candidate,AMEEN,KHAN,EE,78,12345
+candidate,MUAWWAZ,NAEEM,KGKJBK,23.89,12345
